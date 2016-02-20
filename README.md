@@ -4,6 +4,8 @@
 // 在开发中可能有这样的需求，一个button上有图片和文字，可能图片的位置位于文字的上方，也可能在下方左方和右方。
 // 根据这个需求我封装了个btn，一句话实现随意设置button的imageView和titleLabel的位置
 
+![image](https://github.com/WZBbiao/WZBWhereImageBtn/blob/master/01.png?raw=true)
+
 // 方法如下：
 
 // 导入头文件
